@@ -2,7 +2,7 @@
 ## Zadání projektu 
 #### Jelikož jsem si vybral úkol, který mi přišel složitý a raději jsem změnil téma. U předešlého nápadu jsem sprovoznil kód na animaci na displeji(soubor s kódem je zde uložen) a zbytek kódu, pomocí kterého se mělo komunikovat EPS32 přímo s PC se mi nepodařilo sprovoznit. Jelikož jste chtěl nějaký projekt, který se dá dále používat, např doma, tak jsem si vybral barevné osvětlení pokoje pomocí LED pásku a ovládaní přes mobilní telefon přes WIFI. 
 ## Postup práce na zadání 
-#### Jelikož jsem to dělal takto na rychlo, sehnal jsem si LED pásek z elektra a hledal možnosti, jak ho zprovoznit. Chtěl jsem něco jednoduchého na ovládání, tak jsem si našel na ytb video na aplikaci. Kód se na uploadne do ESP přes stŕanku WLED, stránka se Vás zeptá na jakou síť chcete, připojíte a poté si naistalujete do mobilu jejich aplikaci. Na mobilu musíte být připojený na stejné síti a aplikace ESP32 vidí a poté už můžete měnit barvu, jas a módy. 
+#### Jelikož jsem to dělal takto na rychlo, sehnal jsem si LED pásek z elektra a hledal možnosti, jak ho zprovoznit. Chtěl jsem něco jednoduchého na ovládání, tak jsem si našel na youtube video na aplikaci. Kód se na uploadne do ESP přes stŕanku WLED, stránka se Vás zeptá na jakou síť chcete zařízení připojit a poté si naistalujete do mobilu jejich aplikaci. Na mobilu musíte být připojený na stejné síti a aplikace ESP32 vidí a poté už můžete měnit barvu, jas a módy. 
 ## Stav projektu 
 #### Mám objednané další dva LED pásky a ESP32, které si dám pod postel a druhý pod stolek, jeden už mám nainstalovaný pod stolem. 
 ## Průběh práce na projektu 
@@ -11,3 +11,12 @@
 #### Dále si musím sehnat napájení na 5V (pravděpodobně přímo do zásuvky nějaké starší nabíječky) a přes mikro USB napájet ESP32 daných "okruhů". LED pásek který mám u pc je napájený přimo do PC. 
 ## Zapojení 
 #### Pasék má tří pinovou koncovku - VCC (napájení na 5V), GND (ZEM) a datový pin (v tomto projektu pin 16)
+#### Schéma zapojení - diody jsou na pásku za sebou a je jich 30 ks na jednom pásku.
+![image](https://github.com/Vajco06/Ku-era-Projekt/assets/154622913/9612c690-ead7-49c3-88fc-64afbe5e698b)
+## Pomocná ruka:
+#### ChatGPT a pomohl mi s tímto projektem i Tomáš Jarkovský, který mi pomohl pochopit jak tento pásek funguje.
+##Zdroje:
+#### Schéma - https://wokwi.com
+#### Web WLED - https://install.wled.me
+#### Youtube video - https://www.youtube.com/watch?v=GYxctjukehY&t=1s
+#### AI - https://chatgpt.com
