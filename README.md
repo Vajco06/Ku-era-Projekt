@@ -1,4 +1,4 @@
-# Projekt Stream deck - Jakub Kučera 
+# Projekt Stream deck - Nigga Kučera 
 ## Zadání projektu 
 ## Jelikož jsem si vybral úkol, který mi přišel složitý a raději jsem změnil téma. U předešlého nápadu jsem sprovoznil kód na animaci na displeji(soubor s kódem je zde uložen) a zbytek kódu, pomocí kterého se mělo komunikovat EPS32 přímo s PC se mi nepodařilo sprovoznit. Jelikož jste chtěl nějaký projekt, který se dá dále používat, např doma, tak jsem si vybral barevné osvětlení pokoje pomocí LED pásku a ovládaní přes mobilní telefon přes WIFI. 
 ## Stav projektu 
