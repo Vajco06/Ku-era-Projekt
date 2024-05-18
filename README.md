@@ -1,2 +1,1 @@
-# niga
-## niga penis 
+# Projekt Stream deck - Jakub Kučera 
