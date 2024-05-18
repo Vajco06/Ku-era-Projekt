@@ -15,7 +15,7 @@
 ![image](https://github.com/Vajco06/Ku-era-Projekt/assets/154622913/9612c690-ead7-49c3-88fc-64afbe5e698b)
 ## Pomocná ruka:
 #### ChatGPT a pomohl mi s tímto projektem i Tomáš Jarkovský, který mi pomohl pochopit jak tento pásek funguje.
-##Zdroje:
+## Zdroje:
 #### Schéma - https://wokwi.com
 #### Web WLED - https://install.wled.me
 #### Youtube video - https://www.youtube.com/watch?v=GYxctjukehY&t=1s
