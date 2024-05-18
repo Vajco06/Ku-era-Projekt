@@ -1,6 +1,6 @@
 # Projekt Stream deck - Jakub Kučera 
 ## Zadání projektu 
-## Jelikož jsem si vybral úkol, který mi přišel složitý a raději jsem změnil téma. U předešlého nápadu jsem sprovoznil kód na animaci na displeji(soubor s kódem je zde uložen) a zybtek kódu, pomocí kterého se mělo komunikovat EPS32 přímo s PC. Jelikož jste chtěl nějaký projekt, který se dá dále používat, např doma, tak jsem si vybral barevné osvětlení pokoje pomocí LED pásku a ovládaní přes mobilní telefon přes WIFI. 
+## Jelikož jsem si vybral úkol, který mi přišel složitý a raději jsem změnil téma. U předešlého nápadu jsem sprovoznil kód na animaci na displeji(soubor s kódem je zde uložen) a zbytek kódu, pomocí kterého se mělo komunikovat EPS32 přímo s PC se mi nepodařilo sprovoznit. Jelikož jste chtěl nějaký projekt, který se dá dále používat, např doma, tak jsem si vybral barevné osvětlení pokoje pomocí LED pásku a ovládaní přes mobilní telefon přes WIFI. 
 ## Stav projektu 
 #### Mám objednané další dva LED pásky a ESP32, které si dám pod postel a druhý pod stolek, jeden už mám nainstalovaný pod stolem. 
 ## Průběh práce na projektu 
