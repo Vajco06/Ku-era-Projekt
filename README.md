@@ -2,7 +2,7 @@
 ## Zadání projektu 
 #### Jelikož jsem si vybral úkol, který mi přišel složitý a raději jsem změnil téma. U předešlého nápadu jsem sprovoznil kód na animaci na displeji(soubor s kódem je zde uložen) a zbytek kódu, pomocí kterého se mělo komunikovat EPS32 přímo s PC se mi nepodařilo sprovoznit. Jelikož jste chtěl nějaký projekt, který se dá dále používat, např doma, tak jsem si vybral barevné osvětlení pokoje pomocí LED pásku a ovládaní přes mobilní telefon přes WIFI. 
 ## Postup práce na zadání 
-#### Jelikož jsem to dělal takto na rychlo, sehnal jsem si LED pásek z elektra a hledal možnosti, jak ho zprovoznit. Chtěl jsem něco jednoduchého na ovládání, tak jsem si našel na ytb video na aplikaci. 
+#### Jelikož jsem to dělal takto na rychlo, sehnal jsem si LED pásek z elektra a hledal možnosti, jak ho zprovoznit. Chtěl jsem něco jednoduchého na ovládání, tak jsem si našel na ytb video na aplikaci. Kód se na uploadne do ESP přes stŕanku WLED, stránka se Vás zeptá na jakou síť chcete, připojíte a poté si naistalujete do mobilu jejich aplikaci. Na mobilu musíte být připojený na stejné síti a aplikace ESP32 vidí a poté už můžete měnit barvu, jas a módy. 
 ## Stav projektu 
 #### Mám objednané další dva LED pásky a ESP32, které si dám pod postel a druhý pod stolek, jeden už mám nainstalovaný pod stolem. 
 ## Průběh práce na projektu 
